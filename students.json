@@ -1,0 +1,27 @@
+{
+    "2": {
+        "name": "Noor",
+        "age": "20",
+        "course": "Free"
+    },
+    "3": {
+        "name": "hi",
+        "age": "22",
+        "course": "cs"
+    },
+    "6": {
+        "name": "ji",
+        "age": "89",
+        "course": "kk"
+    },
+    "5": {
+        "name": "Aqsa",
+        "age": "23",
+        "course": "CS"
+    },
+    "7": {
+        "name": "Hi",
+        "age": "77",
+        "course": "dh"
+    }
+}
