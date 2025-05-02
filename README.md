@@ -38,13 +38,13 @@ A command-line interface (CLI) application in Python to manage student records u
 ## 🛠️ How to Run
 
 1. Clone or download the repository.
-2. 
+
 https://github.com/HooriaMujtaba1/Student-Management-CLI-app.git
  
 3. Run the script in your terminal:
 
 ```bash
-python student_management_app.py
+python Student-CLI-app.py
 
 
 
