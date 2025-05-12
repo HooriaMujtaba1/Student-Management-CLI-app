@@ -1,50 +1,59 @@
 # 🎓 Student Management CLI App
 
-A command-line interface (CLI) application in Python to manage student records using a JSON file. It supports creating, reading, updating, and deleting (CRUD) student entries, as well as importing/exporting data via CSV files.
+A command-line interface (CLI) application for managing student records. This app supports creating, viewing, updating, and deleting student data stored in a JSON file, automatically syncs to a CSV file, features include reading external files and extracting specific columns from CSV files.
 
 ---
 
 ## 🚀 Features
 
-- Add new student records 🆕
-- View all student records 👀
-- Update existing student information ✏️
-- Delete student records ❌
-- Export student data to CSV 📤
-- Import student data from CSV 📥
-- Stores data persistently in a JSON file 💾
+- ✅ Add a new student
+- 📋 View all students
+- ✏️ Update existing student data
+- 🗑️ Delete a student record
+- 💾 Data persistence using `students.json`
+- 📤 Automatic export to `students.csv` on every change
+- 📂 Read file content from an absolute path
+- 📊 Extract and display selected columns from a CSV file
 
 ---
 
-## 🧰 Technologies Used
+## 🛠️ Technologies Used
 
 - Python 3.x
-- JSON for data storage
-- CSV for data export/import
-- Built-in modules: `json`, `os`, `csv`
+- Standard libraries: `json`, `os`, `csv`
 
 ---
 
+## 📦 File Structure
+
+student_management/
+├── students.json # Main data store (auto-created)
+├── students.csv # Auto-generated CSV export
+├── student_management.py # Main application file
+└── README.md # Project documentation
+
 
 ---
 
-## 📄 Requirements
+## 🧑‍💻 How to Use
 
-- Python 3.6 or higher
-- No external dependencies
+1. **Clone the repository:**
 
----
+   
+   git clone https://github.com/HooriaMujtaba1/Student-Management-CLI-app
+   
+2. **Run the app:**
 
-## 🛠️ How to Run
+   python Student-CLI-app.py
+   
+   
+## 📸 Example Screenshot
+![Screenshot (377)](https://github.com/user-attachments/assets/faebbbc6-4f61-44ed-9ca9-03002c515d26)
+📄 License
+This project is available for learning, personal, and educational use. You are free to use, modify, and distribute it.
+👤 Author
+Project by: Hooria Mujtaba
 
-1. Clone or download the repository.
-
-https://github.com/HooriaMujtaba1/Student-Management-CLI-app.git
- 
-3. Run the script in your terminal:
-
-```bash
-python Student-CLI-app.py
-
+Python CLI App: Student-Management-CLI App 
 
 
