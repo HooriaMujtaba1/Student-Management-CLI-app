@@ -24,17 +24,6 @@ A command-line interface (CLI) application for managing student records. This ap
 
 ---
 
-## 📦 File Structure
-
-student_management/
-├── students.json # Main data store (auto-created)
-├── students.csv # Auto-generated CSV export
-├── student_management.py # Main application file
-└── README.md # Project documentation
-
-
----
-
 ## 🧑‍💻 How to Use
 
 1. **Clone the repository:**
@@ -48,12 +37,14 @@ student_management/
    
    
 ## 📸 Example Screenshot
-![Screenshot (377)](https://github.com/user-attachments/assets/faebbbc6-4f61-44ed-9ca9-03002c515d26)
+![Screenshot (378)](https://github.com/user-attachments/assets/e88a8d8c-5717-4220-8125-ef0068eed130)
+
 📄 License
+
 This project is available for learning, personal, and educational use. You are free to use, modify, and distribute it.
 👤 Author
-Project by: Hooria Mujtaba
 
+Project by: Hooria Mujtaba
 Python CLI App: Student-Management-CLI App 
 
 
