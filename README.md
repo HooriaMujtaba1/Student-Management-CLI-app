@@ -39,10 +39,11 @@ A command-line interface (CLI) application for managing student records. This ap
 ## 📸 Example Screenshot
 ![Screenshot (378)](https://github.com/user-attachments/assets/e88a8d8c-5717-4220-8125-ef0068eed130)
 
-📄 License
+## 📄 License
 
 This project is available for learning, personal, and educational use. You are free to use, modify, and distribute it.
-👤 Author
+
+## 👤 Author
 
 Project by: Hooria Mujtaba
 Python CLI App: Student-Management-CLI App 
