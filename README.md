@@ -35,8 +35,6 @@ A command-line interface (CLI) application for managing student records. This ap
 
 ### 📄 JSON Format
 
- ### 📦 JSON Format
-
 ```json
 {
   "1": {
@@ -56,8 +54,8 @@ A command-line interface (CLI) application for managing student records. This ap
     "roll_number": "1004"
   }
 }
-
-
+```
+---
 
 ## 🧑‍💻 How to Use
 
@@ -82,5 +80,4 @@ This project is available for learning, personal, and educational use. You are f
 
 Project by: Hooria Mujtaba
 Python CLI App: Student-Management-CLI App 
-
 
