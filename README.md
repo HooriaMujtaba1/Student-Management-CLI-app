@@ -26,7 +26,6 @@ A command-line interface (CLI) application for managing student records. This ap
 ## 📁 Example Data Format
 
 ### 📄 CSV Format
-
 ID,Name,Roll Number
 1,Angel,1001
 2,Mia,1002
