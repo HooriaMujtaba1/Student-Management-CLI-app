@@ -23,6 +23,36 @@ A command-line interface (CLI) application for managing student records. This ap
 - Standard libraries: `json`, `os`, `csv`
 
 ---
+📁 Example Data Format
+📄 CSV Format
+
+
+ID,Name,Roll Number
+1,Angel,1001
+2,Mia,1002
+3,Noor,1003
+4,John,1004
+📦 JSON Format
+
+{
+  "1": {
+    "name": "Angel",
+    "roll_number": "1001"
+  },
+  "2": {
+    "name": "Mia",
+    "roll_number": "1002"
+  },
+  "3": {
+    "name": "Noor",
+    "roll_number": "1003"
+  },
+  "4": {
+    "name": "John",
+    "roll_number": "1004"
+  }
+}
+
 
 ## 🧑‍💻 How to Use
 
