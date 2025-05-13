@@ -32,8 +32,13 @@ A command-line interface (CLI) application for managing student records. This ap
 | 2  | Mia   | 1002        |
 | 3  | Noor  | 1003        |
 | 4  | John  | 1004        |
+
 ### 📄 JSON Format
 
+ ### 📦 JSON Format
+
+```json
+{
   "1": {
     "name": "Angel",
     "roll_number": "1001"
@@ -51,6 +56,7 @@ A command-line interface (CLI) application for managing student records. This ap
     "roll_number": "1004"
   }
 }
+
 
 
 ## 🧑‍💻 How to Use
